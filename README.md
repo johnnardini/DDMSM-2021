@@ -1,6 +1,6 @@
 Welcome to the Learning differential equation models from stochastic agent-based model simulations team (also known as the BEST team)!
 
-In this reposity, I have provided too much code from a recent article that I wrote. First thing I would recommend is starting to read through [this article](https://github.com/johnnardini/DDMSM-2021/blob/master/helpful_papers/ABM_EQL_review.pdf). Next, I recommend half of the group split into 1. ABM simulation team and the other half split into 2. EQL Simulation team. 
+In this reposity, I have provided too much code from a recent article that I and others wrote. First thing I would recommend is starting to read through [this article](https://github.com/johnnardini/DDMSM-2021/blob/master/helpful_papers/ABM_EQL_review.pdf). Next, I recommend half of the group split into 1. ABM simulation team and the other half split into 2. EQL Simulation team. 
 
 The ABM simulation team is directed to the **ABM** folder, especially the `plot_ABM_DE_SIR.ipynb` notebook, which can be used to simulate the SIR ABM and compare its output to its mean-field model. This notebook relies on `ABM_package.py` to implement the ABMs, and the Gillespie Algorithm is used for model implementation.
 
