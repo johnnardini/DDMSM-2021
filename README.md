@@ -4,7 +4,9 @@ In this reposity, I have provided too much code from a recent article that I and
 
 The ABM simulation team is directed to the **ABM** folder, especially the `plot_ABM_DE_SIR.ipynb` notebook, which can be used to simulate the SIR ABM and compare its output to its mean-field model. This notebook relies on `ABM_package.py` to implement the ABMs, and the Gillespie Algorithm is used for model implementation.
 
-The EQL simulation team is directed to the **EQL** folder, especially the `Case study 5 SIR Varying params.ipynb` notebook, which performs some equation learning on the SIR ABM output data over several model parameters. This notebook relies on `PDE_FIND3.py`, which conducts the EQL methods, and `PDEFind_class_online.py`, which processes the data and calls the EQL methods.
+The EQL simulation team is directed to the **EQL** folder, especially the `EQL Tutorial.ipynb` and `Case study 5 SIR Varying params.ipynb` notebooks, which introduce the EQL methodology and performs some equation learning on the SIR ABM output data over several model parameters. These notebooks rely on `PDE_FIND3.py`, which conducts the EQL methods, and `PDEFind_class_online.py`, which processes the data and calls the EQL methods.
+
+------- Below is the README from the the previous study's repository --------
 
 # Learning DE models for stochastic ABMs
  Code for "Learning differential equation models from stochastic agent-based model simulations," by John Nardini, Ruth Baker, Mat Simpson, and Kevin Flores. Article available at https://arxiv.org/abs/2011.08255 .
