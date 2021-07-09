@@ -1,4 +1,4 @@
-Welcome to the ``Learning differential equation models from stochastic agent-based model simulations'' team (also known as the **BEST** team)!
+Welcome to the "Learning differential equation models from stochastic agent-based model simulations" team (also known as the **BEST** team)!
 
 In this reposity, I have provided too much code from a recent article that I and others wrote. First thing I would recommend is starting to read through [this article](https://github.com/johnnardini/DDMSM-2021/blob/master/helpful_papers/ABM_EQL_review.pdf). Next, I recommend half of the group split into 1. ABM simulation team and the other half split into 2. EQL Simulation team. 
 
